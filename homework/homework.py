@@ -267,5 +267,5 @@ def main():
             f.write(json.dumps(entry) + "\n")
 
 
-if __name__ == "__main__":  # ✅ CORREGIDO
+if __name__ == "__main__":  
     main()
